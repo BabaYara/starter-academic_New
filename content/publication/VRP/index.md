@@ -2,7 +2,7 @@
 title: "Value Return Predictability Across Asset Classes and Commonalities in Risk Premia"
 authors:  
 - Fahiz Baba-Yara, Martijn Boons, Andrea Tamoni
-date: "2019-04-07T00:00:00Z"
+date: "2020-02-07T00:00:00Z"
 doi: "https://doi.org/10.1093/rof/rfaa011"
 
 # Schedule page publish date (NOT publication's date).
