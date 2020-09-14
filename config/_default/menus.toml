@@ -26,7 +26,7 @@
   
 [[main]]
   name = "Resume"
-  url = "#static/pdf/resume.pdf"
+  url = "static/pdf/resume.pdf"
   weight = 70
   
 
