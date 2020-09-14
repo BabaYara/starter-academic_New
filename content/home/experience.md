@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   date_end = "2013-07-31"
   description = """
   
- [[experience]]
+[[experience]]
   title = "Teaching Assistant"
   company = "NOVA School of Business and Economics"
   company_url = ""
