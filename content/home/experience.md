@@ -40,5 +40,3 @@ experience:
   location: Accra, Ghana
   title: Accounting Assistant
 ---
- 
-+++
