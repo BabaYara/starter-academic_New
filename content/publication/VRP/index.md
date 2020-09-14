@@ -28,14 +28,14 @@ tags:
 featured: false
 
 links:
-- name: Custom Link
+- name: Preprint
   preprint: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3054017
 url_pdf: https://academic.oup.com/rof/advance-article-abstract/doi/10.1093/rof/rfaa011/5812791?redirectedFrom=fulltext
 url_code: https://github.com/BabaYara/Value_Return_Predictability_Across_Asset_Classes_and_Commonalities_in_Risk_Premia
 url_dataset: https://github.com/BabaYara/Value_Return_Predictability_Across_Asset_Classes_and_Commonalities_in_Risk_Premia/tree/master/Datasets
 url_poster: '#'
-url_project: ''
-url_slides: ''
+url_project: '#'
+url_slides: '#'
 url_source: '#'
 url_video: '#'
 
