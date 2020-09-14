@@ -2,7 +2,7 @@
 title: "Machine learning and return predictability across firms, time and portfolios (JMP)"
 authors:
 - Fahiz Baba-Yara 
-date: "2020-02-07T00:00:00Z"
+date: "2020-09-07T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -15,7 +15,7 @@ publishDate: "2019-02-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "SSRN"
+publication: "Job Market Paper"
 publication_short: ""
 
 abstract: Using an information set of firm-level characteristics and aggregate-variables, we show that stock returns as far out as ten years are predictable using a neural network forecasting model. The strength of this predictability is highest in the short-run and falls with horizon. We disentangle the nature of these forecasts and show that most of the predictability we uncover comes from predicting the dominant factor in the pool of stocks; the equally weighted market return. We find that time-series variation in relative stock returns is only predictable in the short-run, consistent with the fact that longer-term discount rates do not vary much across firms. Finally, we show that a neural network model that closely adheres to economic theory generates forecasts that more robustly predict returns to the aggregate market and long-short characteristic sorted portfolios.
