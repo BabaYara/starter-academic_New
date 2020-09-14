@@ -42,7 +42,7 @@ url_video: '#'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Pricing error from regressng older sorts on the newest sorted characteristic portfolio'  
+  caption: ''  
   focal_point: ""
   preview_only: false
 
