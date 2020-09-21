@@ -28,8 +28,8 @@ featured: false
 
 links:
 #- name: Preprint
-#  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3529140
-# url_pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3529140
+ url: https://ssrn.com/abstract=3696533
+ url_pdf: ./files/JobMarket_10.pdf
 #url_code: '#'
 #url_dataset: '#'
 #url_poster: '#'
