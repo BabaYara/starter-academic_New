@@ -2,11 +2,11 @@
 title: "Unifying Risk and Return: A Bayesian approach"
 authors:
 - Fahiz Baba-Yara and Robert Hill
-date: "2017-02-07T00:00:00Z"
+date: "2020-09-07T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-02-01T00:00:00Z"
+publishDate: "2020-09-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
