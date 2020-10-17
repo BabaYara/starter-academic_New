@@ -29,7 +29,8 @@ experience:
   company_url: ""
   date_end:  
   date_start: "2016-09-01"
-  description: Courses |-
+  description: |-
+      - Courses
      - Corporate Finance
      - Investments
      - Asset Management
