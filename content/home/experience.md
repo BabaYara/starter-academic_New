@@ -29,10 +29,10 @@ experience:
   company_url: ""
   date_end:  
   date_start: "2016-09-01"
-  description: 
-    |- "Corporate Finance"
-    |- "Investments"
-    |- "Asset Management"
+  description: |-
+     "Corporate Finance"
+     "Investments"
+     "Asset Management"
   location: Carcavelos, Portugal
   title: Teaching Assistant
 
