@@ -9,7 +9,7 @@
   weight = 10
 
 [[main]]
-  name = "Research"
+  name = "Publications"
   url = "#publications"
   weight = 20
 
@@ -27,9 +27,14 @@
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[main]]
+   name = "JMP"
+   url = "files/JobMarket_10.pdf"
+   weight = 70
+   
+[[main]]
    name = "CV"
    url = "pdf/Resume.pdf"
-   weight = 70
+   weight = 70   
 
 #[[main]]
 #  name = "Publications"
