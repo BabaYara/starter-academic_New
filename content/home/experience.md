@@ -42,5 +42,5 @@ experience:
   date_end: "2013-07-31"
   date_start: "2010-10-31"
   location: Accra, Ghana
-  title: Accounting Assistant
+  title: Accountant
 ---
