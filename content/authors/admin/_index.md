@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-I am a Ph.D. candidate in Finance studying at NOVA School of Business and Economics. My research interest lies at the intersection of Return Predictability, Machine Learning, and Financial Econometrics. I am particularly interested in answering the question of whether or not portfolios that leverage our improved ability to estimate future returns are priced by existing asset pricing models.
+I am acting Assistant Professor of Finance at the Kelley School of Business at Indiana University. My research interest lies at the intersection of Return Predictability, Machine Learning, Factor Portfolios, and Financial Econometrics. I am particularly interested in leveraging machine learning tools in improving our unstanding of why assets earn the return they do.  
 
-I  am happy to announce that I will join The Kelley School of Business at Indiana University in July 2021 as an Acting Assistant Professor.
+I was born and raiesd in Kumasi, Ghana. I received my Bachelor in Business Administration from the University of Ghana Business School, Accra, Ghana and a Masters in Business Administration and Economics from the Norwegian School of Economics, Bergen, Norway.
