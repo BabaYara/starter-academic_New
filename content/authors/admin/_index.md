@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate in Finance
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Nova SBE
+- name: Indiana University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Ph.D. candidate in Finance studying at NOVA School of Business and Economics.
+bio: I am an Assistant Professor in Finance at Kelley School of Business, Indiana University.
 
 interests:
 - Empirical Asset Pricing
