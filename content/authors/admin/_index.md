@@ -14,7 +14,7 @@ role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Indiana University
+- name: Kelley School of Business, Indiana University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
