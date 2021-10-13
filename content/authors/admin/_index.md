@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Assistant Professor
+role: Assistant Professor of Finance
 
 # Organizations/Affiliations
 organizations:
-- name: Kelley School of Business, Indiana University
+- name: Kelley School of Business at Indiana University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -29,7 +29,7 @@ education:
   courses:
   - course: PhD in Finance
     institution: NOVA School of Business and Economics
-    year: 2021 (Expected)
+    year: 2021
   - course: MSc in Economics and Business Administration
     institution: Norwegian School of Economics
     year: 2015
