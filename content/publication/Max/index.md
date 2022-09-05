@@ -1,9 +1,9 @@
 
 ---
-title: "The Factor Model Failure Puzzle"
+title: "Depressed Risk Premia or Mispricing; Where Did the Commodity Returns Go After Financialization?"
 authors:
-- Fahiz Baba-Yara, Brian Boyer and Carter Davis
-date: "2021-11-07T00:00:00Z"
+- Fahiz Baba-Yara and Massimiliano Bondatti
+date: "2022-08-07T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,7 +19,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: Despite the weak theoretical assumptions needed to guarantee the existence of a factor model that prices the cross-section of stock returns we show in a meta-analysis of fifteen state-of-the-art models that none of these models can price the mean-variance efficient portfolio of the other fourteen. No one model effectively describes the cross-section of US equities. Our results highlight the need to benchmark new factor models against each other, rather than anomaly portfolios or classic double sorted portfolios. When markets are incomplete, an infinite number of stochastic discount factors price assets, but empirically, we have yet to find just one. We refer to this as the \textit{factor model failure puzzle}. We present a theoretical model with many weak anomaly trading signals and show that slight methodological deviations lead to different factor models that result in different and flawed characterizations of the risk-return trade-off as observed empirically.
+abstract: The flow of investment capital into the commodity futures market dramatically increased around 2004, and this event is referred to as the financialization of commodity markets. We study how this phenomenon has affected risk premia in this asset class by examining how returns to popular commodity futures strategies have evolved. We find that about 80\% of commodity futures strategies that earned a statistically significant risk premia pre-financialization have earned an average of a zero return since. Using a six latent factor asset pricing model, we show that this deterioration in average returns can be wholly explained by an adverse change in the risk premia to systematically priced variation in the cross-section of commodity futures. In robustness tests, we show that the publication of commodity strategies in the academic literature can only explain about 25\% of the 58 bps per month reduction that commodity futures strategies have experienced post-financialization. .
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -30,8 +30,8 @@ featured: false
 
 links:
 - name: Preprint
-  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3967588
-url_pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3967588
+  #url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3529140
+#url_pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3529140
 #url_code: '#'
 #url_dataset: '#'
 #url_poster: '#'
