@@ -15,10 +15,10 @@ publishDate: "2019-02-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "SSRN"
+publication: "R&R"
 publication_short: ""
 
-abstract: We study the returns to characteristic-sorted portfolios up to five years after portfolio formation. Among a set of 56 characteristics, we find large pricing errors between the contemporaneous returns of new and old sorts, where new sorts use only the most recent observations of firm characteristics. These relative pricing errors are not captured by existing asset pricing models and have been overlooked by standard tests using only returns to new sorts. Thus, pricing errors across horizons provide new and powerful information to test asset pricing models. Further, we show that these pricing errors are strongly related to a characteristic's market beta and connected to the difference in return between new and old stocks in the characteristic-sorted portfolios. We argue that investors can improve the performance of characteristic-based strategies by considering past observations of firm characteristics.
+abstract: For many characteristics, like book-to-market, the persistence of return predictability does not match the persistence of the characteristic. Consequently, large alphas exist between new and old sorts, where new (old) sorts capture the return of a characteristic-sorted portfolio immediately (longer) after formation. These alphas (i) translate into large improvements in Sharpe ratio, (ii) are not captured by benchmark asset pricing models, and (iii) are linked to the return differential between new and old stocks. Since portfolios of new and old stocks are characteristic-neutral, we conclude that explanations of the cross-section based on recent observations of characteristics (and factors derived therefrom) are incomplete..
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
