@@ -1,6 +1,6 @@
 
 ---
-title: "New and Old Sorts: Implications for Asset Pricing"
+title: "Depressed Risk Premia or Mispricing; Where Did the Commodity Returns Go After Financialization?"
 authors:
 - Fahiz Baba-Yara and Massimiliano Bondatti
 date: "2022-08-07T00:00:00Z"
