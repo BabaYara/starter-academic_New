@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-I am an acting Assistant Professor of Finance at the Kelley School of Business at Indiana University. My research interest lies at the intersection of Return Predictability, Machine Learning, Factor Portfolios, and Financial Econometrics. I am particularly interested in leveraging machine learning tools to improve our understanding of why securities with certain characteristics earn the return they earn.
+I am an Assistant Professor of Finance at the Kelley School of Business at Indiana University. My research interest lies at the intersection of Return Predictability, Machine Learning, Factor Portfolios, and Financial Econometrics. I am particularly interested in leveraging machine learning tools to improve our understanding of why securities with certain characteristics earn the return they earn.
 
 I was born and raised in Kumasi, Ghana. I received my Bachelor in Business Administration from the University of Ghana Business School, Accra, Ghana, and a Masters in Business Administration and Economics from the Norwegian School of Economics, Bergen, Norway.
